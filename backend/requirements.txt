@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain==0.2.16
+langchain-google-genai
+langchain-community==0.2.16
+langchain-core==0.2.38
+pydantic
+python-dotenv
+python-multipart
