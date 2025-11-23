@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/interviewer-neutral.png" alt="Interview Practice Partner Logo" width="200"/>
+  <img width="351" height="85" alt="image" src="https://github.com/user-attachments/assets/497af966-9f89-4af8-b5aa-aa3b08a7ce2f" />
 
   # Interview Practice Partner
 
@@ -58,50 +58,50 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                         Frontend                             │
+│                         Frontend                            │
 │  ┌────────────────────────────────────────────────────────┐ │
 │  │  Next.js App (page.tsx)                                │ │
 │  │  - Session Management                                  │ │
 │  │  - State Orchestration                                 │ │
 │  │  - UI Rendering                                        │ │
 │  └───────────────┬────────────────────────────────────────┘ │
-│                  │                                           │
-│  ┌───────────────▼──────────┐  ┌─────────────────────────┐ │
-│  │  VoiceInput Component    │  │  Monaco Code Editor     │ │
-│  │  - Speech Recognition    │  │  - Syntax Highlighting  │ │
-│  │  - Silence Detection     │  │  - Language Support     │ │
-│  │  - Auto Restart Logic    │  │  - Question Pasting     │ │
-│  └──────────────────────────┘  └─────────────────────────┘ │
-│                                                              │
-│  ┌──────────────────────────┐  ┌─────────────────────────┐ │
-│  │  Speech Synthesis (TTS)  │  │  Video Components       │ │
-│  │  - AI Voice Response     │  │  - User/Interviewer     │ │
-│  │  - Code Filtering        │  │  - Green Highlight      │ │
-│  └──────────────────────────┘  └─────────────────────────┘ │
-└────────────────┬─────────────────────────────────────────────┘
+│                  │                                          │
+│  ┌───────────────▼──────────┐  ┌─────────────────────────┐  │
+│  │  VoiceInput Component    │  │  Monaco Code Editor     │  │
+│  │  - Speech Recognition    │  │  - Syntax Highlighting  │  │
+│  │  - Silence Detection     │  │  - Language Support     │  │
+│  │  - Auto Restart Logic    │  │  - Question Pasting     │  │
+│  └──────────────────────────┘  └─────────────────────────┘  │
+│                                                             │
+│  ┌──────────────────────────┐  ┌─────────────────────────┐  │
+│  │  Speech Synthesis (TTS)  │  │  Video Components       │  │
+│  │  - AI Voice Response     │  │  - User/Interviewer     │  │
+│  │  - Code Filtering        │  │  - Green Highlight      │  │
+│  └──────────────────────────┘  └─────────────────────────┘  │
+└────────────────┬────────────────────────────────────────────┘
                  │ HTTP/REST API
                  │
 ┌────────────────▼─────────────────────────────────────────────┐
 │                         Backend                              │
-│  ┌────────────────────────────────────────────────────────┐ │
-│  │  FastAPI Server (main.py)                              │ │
-│  │  - /chat endpoint: Process user messages              │ │
-│  │  - /feedback endpoint: Generate analysis               │ │
-│  └───────────────┬────────────────────────────────────────┘ │
+│  ┌────────────────────────────────────────────────────────┐  │
+│  │  FastAPI Server (main.py)                              │  │
+│  │  - /chat endpoint: Process user messages               │  │
+│  │  - /feedback endpoint: Generate analysis               │  │
+│  └───────────────┬────────────────────────────────────────┘  │
 │                  │                                           │
-│  ┌───────────────▼──────────┐  ┌─────────────────────────┐ │
-│  │  Agent Core              │  │  Memory Module          │ │
-│  │  - Interview Chain       │  │  - Session History      │ │
-│  │  - Prompt Management     │  │  - Context Retention    │ │
-│  │  - Response Generation   │  │  - In-Memory Store      │ │
-│  └──────────────┬───────────┘  └─────────────────────────┘ │
+│  ┌───────────────▼──────────┐  ┌─────────────────────────┐   │
+│  │  Agent Core              │  │  Memory Module          │   │
+│  │  - Interview Chain       │  │  - Session History      │   │
+│  │  - Prompt Management     │  │  - Context Retention    │   │
+│  │  - Response Generation   │  │  - In-Memory Store      │   │
+│  └──────────────┬───────────┘  └─────────────────────────┘   │
 │                 │                                            │
-│  ┌──────────────▼────────────────────────────────────────┐  │
-│  │  System Prompts (prompts.py)                          │  │
-│  │  - Role-specific interview flows                      │  │
-│  │  - Coding question format instructions                │  │
-│  │  - Feedback generation templates                      │  │
-│  └───────────────────────────────────────────────────────┘  │
+│  ┌──────────────▼────────────────────────────────────────┐   │
+│  │  System Prompts (prompts.py)                          │   │
+│  │  - Role-specific interview flows                      │   │
+│  │  - Coding question format instructions                │   │
+│  │  - Feedback generation templates                      │   │
+│  └───────────────────────────────────────────────────────┘   │
 └────────────────┬─────────────────────────────────────────────┘
                  │
 ┌────────────────▼─────────────────────────────────────────────┐
@@ -784,7 +784,7 @@ SOFTWARE.
 ---
 
 <div align="center">
-  Made with ❤️ by the Interview Practice Partner Team
+  Made with ❤️ by Hanish Rishen
 </div>
 
 ---
