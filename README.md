@@ -11,7 +11,7 @@
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/6f049d86-b219-430f-8610-32d41ebbd3a0
+https://github.com/user-attachments/assets/02010aab-5278-4856-9f08-23a3f8546dfb
 
 *A 10-minute screen recording demonstration showcasing:*
 - *The agent's ability to handle multiple user personas (Confused, Efficient, Chatty)*
