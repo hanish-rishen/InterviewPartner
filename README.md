@@ -11,7 +11,7 @@
 
 ## 🎥 Demo Video
 
-**[Demo Video Link - To Be Added]**
+https://github.com/user-attachments/assets/6f049d86-b219-430f-8610-32d41ebbd3a0
 
 *A 10-minute screen recording demonstration showcasing:*
 - *The agent's ability to handle multiple user personas (Confused, Efficient, Chatty)*
@@ -788,7 +788,3 @@ SOFTWARE.
 </div>
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
